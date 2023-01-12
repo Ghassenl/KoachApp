@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "62070378276",
+    "project_id": "koachghassen",
+    "storage_bucket": "koachghassen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62070378276:android:13559e4de323b869a3adb1",
+        "android_client_info": {
+          "package_name": "com.koachghassenapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62070378276-3poetorjsotoppss0eg53ejmfe8tipi9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.koachghassenapp",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "62070378276-s9ucndmeu9cj0p66p77m5h74cu47fk9h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpkH9vus-VWYG-TmKrNq1Sd52vuHJS_qU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "62070378276-s9ucndmeu9cj0p66p77m5h74cu47fk9h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
